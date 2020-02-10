@@ -4,8 +4,8 @@
 ## Description 
 This is my first portfolio website created using the lamguages CSS and HTML
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
+* Download Chrome
+* 
 * in a simple
 * easy-to-understand
 * format
