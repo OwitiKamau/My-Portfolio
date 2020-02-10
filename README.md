@@ -18,6 +18,5 @@ HTML and CSS
 Incase of queries, comments and questions, refer to Adrian Etenyi @etadriano2@gmail.com
 Or @arekama20@gmail
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {2020} [MIT LICENSE](License)
   
