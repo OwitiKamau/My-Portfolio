@@ -16,7 +16,7 @@ This is my first portfolio website created using the lamguages CSS and HTML
 HTML and CSS
 ## Support and contact details
 Incase of queries, comments and questions, refer to Adrian Etenyi @etadriano2@gmail.com
-Or @arekama20@gmail
+Or @arekama20@gmail.com
 ### License
 Copyright (c) {2020} [MIT LICENSE](License)
   
